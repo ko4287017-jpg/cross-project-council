@@ -1,4 +1,4 @@
-# OpenJS Foundation Code of Conduct
+https://github.com/openjs-foundation/cross-project-council/blob/d0824918e83de218f25f2b962192ff226833c694/CODE_OF_CONDUCT.md# OpenJS Foundation Code of Conduct
 
 ## Report an incident
 
